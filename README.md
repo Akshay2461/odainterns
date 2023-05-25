@@ -21,3 +21,5 @@ if [ $? -ne 0 ]; then
     sudo snap remove mysql-workbench-community
     exit 1
 fi
+
+exit
