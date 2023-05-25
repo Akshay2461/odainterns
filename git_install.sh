@@ -22,8 +22,7 @@ git --version >/dev/null 2>&1;
 if [ $? -ne 0 ];then
 echo "Git installation failed."
 echo "need to cleanup"
-sudo apt-get remove git
-
+sudo apt-get remove git jdjekljd
 fi
 
 
