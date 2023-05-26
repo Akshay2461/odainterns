@@ -1,0 +1,8 @@
+git init 
+git add <name of the file>
+git commit -m "commit message"
+
+git branch -M main
+
+git remote add origin <link of repo>
+git push -u origin main 
