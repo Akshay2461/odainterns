@@ -25,3 +25,4 @@ for log_file in $(find "$log_directory" -type f -name "$log_pattern"); do
 done
 
 echo "Errors saved to $output_file"
+echo "hello"
